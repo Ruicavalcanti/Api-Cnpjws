@@ -5,13 +5,13 @@ Permite também o preenchimento do endereço automaticamente através do CEP.
 A Consulta é feita através da Api dos Correios.
 
 # Como Usar
-Escolher o tipo de pessoa juridica
-Preencher o CNPJ e clicar em Buscar
-Preencher o campo CEP e clicar em Buscar
+- Escolher o tipo de pessoa juridica
+- Preencher o CNPJ e clicar em Buscar
+- Preencher o campo CEP e clicar em Buscar
 
-#Tecnologias
-C#
-JavaScript (Consultas assicronas e validações)
-Bootstrap
-HTMl5
-CSS
+# Tecnologias
+- C#
+- JavaScript (Consultas assicronas e validações)
+- Bootstrap
+- Html5
+- CSS
